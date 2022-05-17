@@ -14,7 +14,7 @@ var newsfeed = [
 ];
 
 
-// -----------------------------SOLUTION PROVIDED--------------------------------------------------------
+// -----------------------------SOLUTION PROVIDED-----------------------------------------------------
 
 // Create an object and an array which we will use in our facebook exercise.
 
